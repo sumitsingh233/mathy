@@ -70,7 +70,8 @@ Let's start by simplifying a polynomial problem using the CLI:
 ### Simplify a Polynomial
 
 ```bash
-$ mathy simplify "2x + 4 + 3x * 6"
+$ mathy simplify "Change each of the following percents into a common fraction in lowest terms 16 2/3% 
+"
 ```
 
 Mathy uses a swam planning algorithm to determine which intermediate steps to take to get to the desired solution.
